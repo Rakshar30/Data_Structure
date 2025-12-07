@@ -20,5 +20,4 @@ d = MyDict({'a':1,
     'c': 3})
 print("Original Dictionary")
 print(d)
-
 d.pop(1)
